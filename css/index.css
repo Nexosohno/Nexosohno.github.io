@@ -1,4 +1,4 @@
-body{
+*{
     width: 100vw;
     height: 100vh;
     background: linear-gradient(#00172e, #000000);
@@ -7,4 +7,5 @@ body{
 h1, h2{
     color: white;
     text-align: center;
+    font-family: 'Inter-Regular';
 }
