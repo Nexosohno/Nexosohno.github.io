@@ -48,4 +48,12 @@ body {
   font-family: "Oswald-Medium";
   text-align: center;
   flex-grow: 1;
+  padding: 100px;
+}
+
+.about-text {
+  color: white;
+  font-family: "Oswald-Medium";
+  text-align: center;
+  flex-grow: 1;
 }
