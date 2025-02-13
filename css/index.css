@@ -6,7 +6,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: "Inter-Regular";
+  font-family: "Oswald-Medium";
 }
 
 .logo{
@@ -15,9 +15,9 @@ body {
   border-radius: 100%;
 }
 
-.nexos {
+.music-player {
   color: white;
-  font-family: "Inter-regular";
+  font-family: "Oswald-Medium";
   text-align: center;
   flex-grow: 1;
 }
@@ -41,4 +41,11 @@ body {
 .navbar a {
   color: white;
   text-decoration: none;
+}
+
+.home-text {
+  color: white;
+  font-family: "Oswald-Medium";
+  text-align: center;
+  flex-grow: 1;
 }
